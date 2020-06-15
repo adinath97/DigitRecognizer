@@ -21,7 +21,7 @@ namespace Classification_DigitRecognition
             /************/
 
             //store in a variable the path to the file containing the training data set
-            var trainingPath = @"/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/train.csv";
+            var trainingPath = @"/Users/(path continued)/train.csv";
             /* 
              * store in a variable the output obtained when the training data is passed into
              * read and the collection of observations is created using the Read_Observations function
@@ -41,7 +41,7 @@ namespace Classification_DigitRecognition
             /**************/
 
             //store in a variable the path to the file containing the validation data set
-            var validationPath = @"/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/train_2.csv";
+            var validationPath = @"/Users/(path continued)/train_2.csv";
             /* 
              * store in a variable the output obtained when the validation data is passed into
              * read and the collection of observations is created using the Read_Observations function
