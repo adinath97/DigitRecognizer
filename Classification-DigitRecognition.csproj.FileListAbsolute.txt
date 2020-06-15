@@ -1,0 +1,12 @@
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/bin/Debug/netcoreapp3.1/Classification-DigitRecognition.deps.json
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/bin/Debug/netcoreapp3.1/Classification-DigitRecognition.runtimeconfig.json
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/bin/Debug/netcoreapp3.1/Classification-DigitRecognition.runtimeconfig.dev.json
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/bin/Debug/netcoreapp3.1/Classification-DigitRecognition.dll
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/bin/Debug/netcoreapp3.1/Classification-DigitRecognition.pdb
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/obj/Debug/netcoreapp3.1/Classification-DigitRecognition.csprojAssemblyReference.cache
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/obj/Debug/netcoreapp3.1/Classification-DigitRecognition.AssemblyInfoInputs.cache
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/obj/Debug/netcoreapp3.1/Classification-DigitRecognition.AssemblyInfo.cs
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/obj/Debug/netcoreapp3.1/Classification-DigitRecognition.csproj.CoreCompileInputs.cache
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/obj/Debug/netcoreapp3.1/Classification-DigitRecognition.dll
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/obj/Debug/netcoreapp3.1/Classification-DigitRecognition.pdb
+/Users/adityaiyengar/Documents/C#/DigitRecognition/Classification-DigitRecognition/obj/Debug/netcoreapp3.1/Classification-DigitRecognition.genruntimeconfig.cache
